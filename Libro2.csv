@@ -1,5 +1,5 @@
 id,parentId,name,lastName,position,image,email,location_state
-100,,Kevin,velasquez,practicante,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,per@gmaiil.com,Cajamarca
+100,,Kevin ewler velasquez pereyra,velasquez,practicante,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,per@gmaiil.com,Cajamarca
 101,100,Neena,Kochhar,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait85.png,NKOCHHAR,Washington
 102,100,Lex,De Haan,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait16.png,LDEHAAN,Washington
 103,102,Alexander,Hunold,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait17.png,AHUNOLD,Texas
