@@ -1,0 +1,620 @@
+id,parentId,name,position,image,cantidad,Fotocheck
+1,,Romero Palomino Javier,Gerente Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,11,01024525
+2,1,Huamanchumo Pinedo Alejandro Jose,Superintendente Produccion Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,2,01097224
+3,1,Quiñones Kong Benito Alejandro,Superintendente Operaciones Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,38,01074796
+4,1,Freyre Valera Carlos Alfredo,Jefe Costos Y Presupuesto Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01101354
+5,1,Briceño Torres Edwin Enrique,Superintendente Operaciones Aguas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,10,01041981
+6,1,Salas Guillen Fernando Antonio,Superintendente Mantto Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,15,01100944
+7,1,Casos Garcia Miguel Angel,Jefe General Energia,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,10,01046179
+8,2,Miranda Tejada Jorge Javier,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01008649
+9,2,Quispe Perez Roberto Carlos,Jefe Perforacion Y Voladura,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,24,01102500
+10,9,Rudas Gallardo Cruz Rafael,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,49,01039198
+11,9,Vasquez Zelada Jhenifer Jhoana,Supervisor Voladura Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01338070
+12,9,Diaz Espinoza Jose Luis,Supervisor Campo Mina Ug,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,19030289
+13,4,Romero Correa Jorge Eduardo,Supervisor Dispatch,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01012984
+14,4,Osorio Canales Karen Victoria,Analista Costos y Presupuestos II,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,10022206
+15,4,Contreras Ocros Yovany Victor,Asistente Costos Mantto Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100441
+16,4,Kevin Velasquez Pereyra,Practicante,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,19056391
+17,3,Perez Llamoctanta Anderson Ivan,Analista Laboratorio,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,7,10014789
+18,3,Abril Montes Carlos Benigno,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,5,01015452
+19,3,Moreno Alvarez Carlos Alfredo,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01099906
+20,3,Vargas Alfaro Carlos Alberto,Metalurgista Senior Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01055767
+21,3,Torres Medina Danitza Karen,Ingeniero Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101630
+22,3,Gonzales Roncal Emil Manuel,Metalurgista Oper Senior Planta Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,1,01002773
+23,3,Cabrera Alfaro Javier,Metalurgista Senior Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,7,01010001
+24,3,Arias Abanto Jose Angel,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01051677
+25,3,Saldaña Rodriguez Juan Carlos,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,9,01068147
+26,3,Vasquez Chanduvi Julio Slavko,Quimico Senior,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,11,01071945
+27,3,Salazar Tello Lindey,Metalurgista Oper Senior Planta Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01012302
+28,3,Cruzado Chuquilin Luis Humberto,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01089443
+29,3,Escobedo Del Pielago Luis Artemio,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,6,01008822
+30,3,Cherres Barrueto Manuel Antonio,Supervisor Investigaciones Metalurgicas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01034962
+31,3,Marcapura Vargas Manuel Jesus,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,7,01057046
+32,3,Cupe Zea Marcial Hebert,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,8,01100401
+33,3,Cervera Estela Marco Antonio,Supervisor Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01057236
+34,3,Asuncion Saldaña Roger Enrique,Metalurgista Senior Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01050983
+35,3,CAROLINA VALCARCEL,C_ADMINISTRADORA,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+36,3,DORA ALLPILLIMA CASTRO,C_ASISTENTE ADMINISTRATICA,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+37,3,DANTE CATALAN,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+38,3,EDSON ESPEZUEA,C_JEFE DE PROYECTOS,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+39,3,ELIZABETH ABANTO,C_TRANSPORTES DE MATERIALES PROCESOS,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+40,3,LUIS CABANILLAS CHILON,C_SERVICIO DE TRANSPORTE DE LECHADA DE CAL,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+41,5,Gonzalez Leon Carlos,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01080830
+42,5,Montenegro Mosqueira Enrique Arturo,Supervisor Campo I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01087182
+43,5,Arce Torres Freddy Edgardo,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01095751
+44,5,Barbagelata Caceres German Jesus,Supervisor Mina Ug,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01072335
+45,5,Silva Diaz Juan Carlos,Supervisor Dispatch,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101938
+46,5,Vargas Gordillo Luis Alfredo,Supervisor Mina Ug,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101925
+47,5,LUIZ CHÁVEZ QUISPE,C_ADMINISTRADOR,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+48,5,Meza Abanto Marco Ivan,Supervisor Campo I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100839
+49,5,Guevara Lopez Segundo Mercedes,C_SUPERVISOR SSOMA,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+50,5,Lopez Victor,Supervisor Mantto Camiones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100776
+51,6,Mendoza Estela,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+52,6,Malaga Chavez Jorge Luis,Jefe Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,8,01014077
+53,6,Chacaltana Mejia Juan Carlos,Supervisor Mantto Instalaciones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,6,01011366
+54,6,Vargas Soto Joel,C_INGENIERO MineOperate,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+55,6,Silva Villena Luis Agapito,Jefe General Mantto Produccion Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,8,01100905
+56,6,Vasquez Guerrero Luis Enrique,Supervisor Senior Mantto Mina Soporte,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,7,01099854
+57,6,Mercado Marin Lourdes,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+58,6,Del Castillo Pacheco Oscar Federico,Supervisor Ii Planeamiento Y Estrategia,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,20,01100813
+59,6,CASAS RENZO,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+60,6,EDWARD PAUL RODAS MENDOZA,C_INGENIERO DE OPERACIONES,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+61,6,CHILON ROLANDO,C_ADMINISTRADOR DE CONTRATO,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+62,6,Garagatti Vilca Rolando Raul,Planner Mantto Senior,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,11,01001608
+63,6,Zarate Takano Ruben,Ingeniero Confiabilidad,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,18,01064378
+64,6,MESTANZA SAMUEL,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+65,6,CRUZADO ROJAS WILSON ABEL,C_INGENIERO DE OPERACIONES,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+66,7,Espinoza Erazo Daniel Eduardo,Supervisor Sistema Potencia,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01051819
+67,7,Gonzaga Eras Elias Adalberto,Electricista Subestaciones Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100986
+68,7,Chavez Cancino Elqui Antonio,Electricista Subestaciones Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01065026
+69,7,Fernandez Asuncion Enrique Neyll,Electricista Subestaciones Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01022844
+70,7,Aquino Mayta Hever Urbano,Supervisor Mantenimiento Sistema Potenci,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100100
+71,7,Moncada Rugel Jose Luis,Electricista Subestaciones Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101070
+72,7,Yupanqui Medina Julio Cesar,Electricista Subestaciones Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01098015
+73,7,Chuco Enciso Lizardo Johnny,Electricista Subestaciones Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100988
+74,7,Robles Martinez Nicanor Doroteo,Electricista Subestaciones Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100987
+75,7,ESQUIVEL PATRICIA,C_INGENIERO AMBIENTAL,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+76,9,Vilchez Rabanal Julio Cesar,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,49,01029552
+77,9,LEZMA JANY,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+78,9,Tacilla Chilon Keevyn Yhuel,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,47,01053760
+79,9,Canales Ochoa Luis Alberto,Supervisor Voladura Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,14,01022823
+80,9,Caro Cabrera Manuel Francisco,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,50,01077312
+81,9,GARCIA MEZA WILLIAM,C_Supervisor de operaciones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+82,10,Roncal Mestanza Alberto Napoleon,Operador Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100053
+83,10,Cerquin Cortez Alejandro,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01233261
+84,10,Chilon Quispe Andres,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100279
+85,10,Teran Cueva Apolinario,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01248788
+86,10,Pachamango Colorado Bacilio,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100363
+87,10,Perez Avellaneda Carlos Alberto,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01076464
+88,10,Rodriguez Vigo Cecilia Del Carmen,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01042266
+89,10,Saman Morales Cristobal,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100074
+90,10,Verastegui Saenz Edwin Roger,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100006
+91,10,Idrugo Cueva Emiliano,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100514
+92,10,Marin Saldaña Felipe Bernardo,Operador Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01011794
+93,10,Herrera Castrejon Fernando,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01017179
+94,10,Chunqui Marchena Franklin Eberth,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01084175
+95,10,Diaz Mestanza Frezia,Operadora Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01098403
+96,10,Chilon Ayay Hiliberto,Operador Voladura,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01093939
+97,10,Tacilla Culqui Jaime,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100056
+98,10,Olivos Cruz Jakeline Claudia,Operadora Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01050152
+99,10,Huaygua Ruiton Javier,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01023278
+100,10,Avellaneda Ramirez Jorge Luis,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01054908
+101,10,Chilon Pompa Jose Santos,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01226886
+102,10,De La Cruz Ispilco Jose Sabino,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01047359
+103,10,Palacios Camacho Jose Javier,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100013
+104,10,Rojas Ayay Jose Rosas,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01293626
+105,10,Tucto Camacho Jose Jacinto,Operador Equipo Vias,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100291
+106,10,Lezama Perez Juan Eleodoro,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01015480
+107,10,Mantilla Requelme Juan Fernando,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100008
+108,10,De Los Rios Carrillo Leoncio Alberto,Asistente Tecnico Dispatch,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01057193
+109,10,Chilon Carrasco Leonidas,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01249867
+110,10,Herrera Huaripata Leonidas,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01068218
+111,10,Villanueva Vargas Luciano,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01072713
+112,10,Garay Portal Luis Jesus,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01204062
+113,10,Tacilla Flores Luis Alberto,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01001207
+114,10,Oroya Villagaray Marcial Rosas,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01042539
+115,10,Ramos Perez Marco Antonio,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01027332
+116,10,Vega Mostacero Miguel,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01083452
+117,10,Alvarez Aliaga Paco,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01012501
+118,10,Rodriguez Briones Pedro,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01238423
+119,10,Padilla Aguilar Roland Alberto,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100022
+120,10,Chilon Chilon Santos,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01028954
+121,10,Acuña Gonzales Segundo Mario,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101196
+122,10,Alvarez Cardenas Segundo Romulo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01021546
+123,10,Teran Ayay Severino,Operador Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01032618
+124,10,Martos Machuca Ulices Esdumer,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100253
+125,10,Infante Chuquimango Victor,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100653
+126,10,Torrel Aliaga Wilder Alfonso,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01222477
+127,10,Alaya Cruzado Wilmer,Operador Camabaja 793,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01271921
+128,10,Montero Rudas Carlos Alberto,Operador Cargador Frontal 992 - 994,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01032211
+129,10,Ispilco Chuquimango Jose Samuel,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01204582
+130,10,Chuquilin Bustamante Segundo Tomas,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01079034
+131,9,Zorrilla Huaman Carlos Alberto,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01026342
+132,9,Pompa Villanueva Elias,Operador Relevo Perforadora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01273752
+133,9,Cusquisiban Calua Francisco Alindor,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01008166
+134,9,Leon Alvarez Jorge Alejandro,Operador Perforadora Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01012026
+135,9,De La Cruz Flores Jose Leonidas,Operador Perforadora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01055352
+136,9,Requelme Diaz Jose,Lider Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01018595
+137,9,Alva Alcantara Julio Cesar,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01025571
+138,9,Chuquilin Novoa Luis Alberto,Operador Perforadora III,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01075293
+139,9,Iglesias Flores Marco Antonio,Operador Perforadora Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01074450
+140,9,Leal Villanueva Miguel Roger,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01039140
+141,9,Pompa Chugnas Rodolfo,Operador Perforadora Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01073612
+142,9,Becerra Linares Victor Raul,Lider Perforacion,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100117
+143,9,Gutierrez Flores Wildor Nicolas,Operador Perforadora III,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01015133
+144,76,Arce Bernal Adan Ulises,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01092179
+145,76,Jara Gonzales Alberto Baltazar,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01003484
+146,76,Malca Terrones Alcibiades,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01008414
+147,76,Ocas Gonzales Alejandro,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01095961
+148,76,Caruanambo Rudas Alex Joaquin,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01205581
+149,76,Flores Carrasco Andres,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01086533
+150,76,Culqui Alvarado Antonio,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01051005
+151,76,Barboza Diaz Brandon Raul,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01289356
+152,76,Azañero Llanos Celso,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01005862
+153,76,Saucedo Rios Cristhian Neptali,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01003585
+154,76,Alfaro Sifuentes David,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100018
+155,76,Valdivia Cueva David,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01206525
+156,76,Arce Vargas Evangelina,Operadora Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101842
+157,76,Moreno Briones Ever Dan,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01231678
+158,76,Castrejon Villanueva Fausto,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01202083
+159,76,Mantilla Huaman Fernando,Operador Cargador Frontal 992 - 994,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01012945
+160,76,Carrasco Villanueva Francisco,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01221776
+161,76,Nina Yampasi Guillermo Wilfredo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01079438
+162,76,Villanueva Chavez Hugo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01225708
+163,76,Cantera Izquierdo Jorge Alberto,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01093684
+164,76,Requelme Cabrera Jorge Raul,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01082229
+165,76,Chuquimango Rojas Jose Luis,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100020
+166,76,Garcia Castillo Jose Carlos,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01094790
+167,76,Huaman Garay Jose Anulfo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01302270
+168,76,Ispilco Chuquimango Jose Samuel,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01204582
+169,76,Linares Chuquiruna Jose Freddy,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01068401
+170,76,Morales Pajares Juber Napoleon,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01035822
+171,76,Valencia Flores Julio,Operador camion mina II,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01282335
+172,76,Estrada Villanueva Luis,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01282076
+173,76,Vasquez Angulo Luis Jacinto,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100251
+174,76,Chilon Cueva Marcelino,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01250358
+175,76,Vera Cercado Marco Antonio,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01007206
+176,76,Vigo Paz Miguel Angel,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100021
+177,76,Idrogo Cruzado Neptali,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01092201
+178,76,Pompa Flores Octavio Agapito,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01038151
+179,9,Camacho Salazar Orlando,Supervisor Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01051435
+180,76,Chavez Ponciano Pedro Emilio,Operador Cargador Frontal 992 - 994,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01004534
+181,76,Saavedra Espinoza Pedro David,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01025984
+182,76,Quispe Limay Robert Nelson,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01233472
+183,76,Ayay Chilon Sabino,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01219348
+184,76,Cruz Terrones Segundo Francisco,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01076743
+185,76,Flores Castrejon Segundo Wilder,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01279354
+186,76,Gallardo Vasquez Segundo Clemente,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01033354
+187,76,Julca Novoa Segundo Edilberto,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01087737
+188,76,Graciano Ocas Tomas,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101145
+189,76,Fernandez Minchan Trinidad,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01298886
+190,76,Infante Cueva Ulises,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01263464
+191,76,Morales Vizcarra Victor Roberto,Operador Equipo Vias,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100012
+192,76,Valera Leon Willan Estuardo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01262263
+193,76,Chilon Zambrano Wilson,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01240406
+194,78,Vidal Liñan Alejandrino,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100949
+195,78,Yopla Chilon Alejandro,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100243
+196,78,Valencia Valiente Angel Maximo,Operador Cargador Frontal 992 - 994,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101147
+197,78,Operador Camion Mina I,Operador Manejo Aguas I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01295788
+198,78,Freyre Valera Armando Antonio,Operador Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01078774
+199,78,Vigo Cabanillas Carlos Josue,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01015312
+200,78,Cayotopa Chavarry Cesar Atilo,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01096106
+201,78,De La Cruz Zambrano Cesar,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01219886
+202,78,Campos Abanto Christian Norvil,Operador Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01060004
+203,78,Yepez Ruiz Dajalma,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01026733
+204,78,Chilon Amambal Elias,Operador Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01072217
+205,78,Diaz Ñontol Francisco,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01226851
+206,78,Cotrina Perez Gonzalo Edgardo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01003295
+207,78,Yopla Chilon Gumercindo,Operador Relevo Carguio,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01052417
+208,78,Carrera Torrel Herless,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01031989
+209,78,Chuquimango Castrejon Isidro,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01001806
+210,78,Tejada Gonzales Jaime,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01219065
+211,78,Zambrano Huatay Jaime,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01292609
+212,78,Linares Malca Javier Roger,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01046600
+213,78,Atoche Garcia Jesus Antonio,Operador Relevo Carguio,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01021749
+214,78,Micha Cardenas Jorge Luis,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01098450
+215,78,Celis Moreno Jose Rogelio,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100344
+216,78,Limay Huatay Jose Paulino,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01049169
+217,78,Chuquimango Chilon Juan Hector,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01223731
+218,78,Cueva Infante Juan Bautista,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100105
+219,78,Gutierrez Ocas Juan,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01014174
+220,78,Mendoza Ramirez Juan,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01002383
+221,78,Sanchez Galvez Juan Cesar,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01037089
+222,78,Valdivia Herrera Lidia,Operadora Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01031791
+223,78,Cardenas Cabellos Manuel Carloman,Operador Cisterna 777,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01061710
+224,78,Tacilla Trigoso Marcos Fernando,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01013657
+225,78,Arribasplata Cruz Miguel Angel,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01059997
+226,78,Infante Flores Milton,Operador Camion Mina II,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01306390
+227,78,Apaestegui Izquierdo Nelson,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101841
+228,78,Julca Palacios Neuter,Operador Manejo Aguas I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01213365
+229,78,Ortiz Zamora Orlando,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01212924
+230,78,Calua Chilon Oscar,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01220546
+231,78,Vargas Zafra Otter,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01055284
+232,9,Bazan Becerra Raul Antonio,Supervisor  Tajo,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01073300
+233,78,Paisig Fuentes Ricardo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01256965
+234,78,Pajares Valera Rosina Elizabeth,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01097069
+235,78,Gonzales Chilon Ruben Henry,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01269940
+236,78,Mendoza Palomino Salatiel Osias,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01070249
+237,78,Ispilco Castrejon Santiago,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01071429
+238,78,Huatay Infante Santos,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01223914
+239,78,Hoyos Culqui Victor Manuel,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01018493
+240,78,Teran Chuquimango Vidal,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01233227
+241,78,Pastor Roncal Walter Enrique,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01282540
+242,79,Bringas Chavez Everth Antonio,Operador Perforadora II,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01017128
+243,79,Carrera Tenorio Henry Joel,Lider Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01034229
+244,79,Chilon Huaman Jorge Luis,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01018674
+245,79,Chavez Salazar Jose Rigoberto,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01001154
+246,79,Ishpilco Chilon Jose Santos,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01031513
+247,79,Zavaleta Diaz Jose Antonio,Operador Voladura Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100948
+248,79,Chilon Castrejon Juan,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01021973
+249,79,Cabrera Vasquez Keny Eduardo,Operador Perforadora Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01083300
+250,79,Alva Moza Luis,Operador Relevo Perforadora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01304827
+251,79,Jambo Gonzales Manuel,Operador Perforadora Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01002058
+252,79,Yopla Gonzales Maximo,Operador Relevo Perforadora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01228969
+253,79,Silva Alva Neil Collins,Lider Perforacion,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01074506
+254,79,Ayay Ispilco Roberto,Operador Relevo Perforadora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01208889
+255,79,Yopla Chilon Samuel,Operador Relevo Perforadora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01220054
+256,80,Chavez Vasquez Alfonso Octaviano,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01028621
+257,80,Trigoso Lopez Amaro Remberto,Operador Camion Mina II,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01010650
+258,80,Ayay Ispilco Bacilio,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01300761
+259,80,Portal Contreras Carlos Alfonso,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01098965
+260,80,Perez Avellaneda Cesar Manuel,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01201601
+261,80,Ortiz Zamora Demetrio,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101102
+262,80,Bringas Cardenas Dicxon Willan,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101144
+263,80,Valdez Huaman Dina Maribel,Operadora Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01014440
+264,80,Herrera Gutierrez Edgardo,Operador Cargador Frontal 992 - 994,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01051900
+265,80,Suarez Zelada Edgar,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01246215
+266,80,Gonzales Chacon Erik,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100121
+267,80,Quiroz Huaman Fausto,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099866
+268,80,Llanos Odiaga Fredy Martin,Operador Voladura Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01068790
+269,80,Mendoza Cabrera Fredy Roland,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01068067
+270,80,Tejada Bustamante Guillermo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01004865
+271,80,Teran Chuquimango Guillermo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01206976
+272,80,Fuentes Tasilla Hector,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01096520
+273,80,Aguilar Saucedo Hernan,Capataz Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01006724
+274,80,Meza Castrejon Jorge Luis,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01046280
+275,80,Ayay Infante Jose Santos,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01268741
+276,80,Cueva Villanueva Jose Rosario,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01052000
+277,80,Llanos Heras Jose Guillermo,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01219977
+278,80,Vargas Sanchez Jose Santos Rafael,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01019720
+279,80,Vasquez Ramirez Jose Humberto,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01031021
+280,80,Villanueva Herrera Jose Leonidas,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01054737
+281,80,Caso Mamani Juan Lucio,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01046173
+282,80,Diaz Gutierrez Julian,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01036443
+283,80,Ara Rojas Julio Ernesto,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100621
+284,80,Huaman Garay Julio Cesar,Operador Motoniveladora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01085183
+285,80,Novoa Pachamango Julio,Operador Tractor Ruedas,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01000414
+286,80,Cueva Tafur Justo,Operador Cargador Frontal 992 - 994,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01080093
+287,80,Zambrano De La Cruz Leiser,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01214428
+288,80,Teran Chuquimango Leonardo,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01219781
+289,80,Rojas Carrasco Luber,Operador Drenaje Mina I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01271163
+290,80,Yupanqui Roncal Luciano,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01228164
+291,80,Paredes Saenz Luis Alberto,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01014427
+292,80,Ugaz Barrantes Luis Enrique,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01085594
+293,80,Coronado Herrera Matias,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01031118
+294,80,Aliaga Mercado Miguel Angel,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01200377
+295,80,Abanto Luna Napoleon,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01002366
+296,80,Chilon Infante Oscar Elmer,Operador Voladura,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01078038
+297,80,Aguilar Briones Reyno Antonio,Operador Relevo Carguio,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01049234
+298,80,Vasquez Hernandez Richard Eduardo,Operador Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01096906
+299,80,Marin Huaman Rodolfo,Operador Cisterna 777,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01087198
+300,80,Gonzales Julcamoro Rolando,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01065114
+301,80,Valdez Ayay Sabino,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01001797
+302,80,Sanchez Silva Santiago,Operador Camion Mina Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01039581
+303,80,Vega Sanchez Santos Demetrio,Operador Excavadora 2500,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100028
+304,80,Coronado Castrejon Segundo Amadeo,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100577
+305,80,Valencia Castrejon Walter Celso,Operador Tractor Oruga,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01002006
+306,17,Casas Gamboa Antonio Joselito,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01061395
+307,17,Teran Ramos Cesar Eduardo,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01206146
+308,17,Vasquez Becerra Oscar,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01000023
+309,17,Hidalgo Llaja Roberth,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01052700
+310,17,Castañeda Vargas Robinson Froilan,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01081865
+311,17,Saldaña Huaman Segundo Jesus,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01055840
+312,17,Jara Yopla Walter Alfonso,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01012760
+313,18,Roncal Medina Antonio Jose,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100278
+314,18,Rodriguez Vasquez Guillermo,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01302642
+315,18,Benites Asto Johon Henry,Asistente Operaciones Almacen I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01200523
+316,18,Rebaza Cotrina Victor Jose,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01037759
+317,18,Lopez Guadalupe Wilder Jesus,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01078580
+318,19,Valdez Ayay Cesar,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01054439
+319,19,Ayma Neira Henry,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100320
+320,19,Rabanal Valdez Segundo Edwin,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100364
+321,19,Cuipa Saldaña Valentin,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099927
+322,22,Erick Baez Medina,C_Administrador de control de documentos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+323,23,Soto Collazos Carlos Adan,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01054958
+324,23,Quiroz Quiroz Daniel,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01027127
+325,23,Rojas Lopez Jaime Eduardo,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01058673
+326,23,Tincopa Mejia Jorge Luis Isaac,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01065290
+327,23,Leiva Salas Jose Julian,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01049558
+328,23,Palomino Becerra Jose Bernardo,Operador Mantenedor Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01025523
+329,23,Rafael Julcamoro Juan Orlando,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01085817
+330,3,Rojas Gonzales Johnny Idelso,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01035567
+331,3,Avileno Salazar Juan Carlos,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01022501
+332,3,Alcantara Burga Luis Miguel,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01025985
+333,3,Huatay Gonzales Oscar Roberto,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01240420
+334,3,Arevalo Nuñez Segundo Sixto,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01037027
+335,3,Infante Huaripata Walter,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01098423
+336,25,Bustamante Espinoza Alberto,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01047782
+337,25,Teran Chilon Catalino,Operador Mantenedor Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100066
+338,25,Lazaro Chavez Edwar Alexander,Operador Soporte Lixiviacion Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01229935
+339,25,De Francesch Ortiz Guido Giovanni,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01023409
+340,25,Bautista Flores Maximo,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100310
+341,25,Aguilar Mendoza Ramiro Eustacio,Operador Mantenedor Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100349
+342,25,Castrejon Castrejon Santiago,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01089421
+343,25,Cercado Flores Segundo Clemente,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01015944
+344,25,Bazan Terrones Wilder Alfonso,Operador Mantenedor Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100067
+345,26,Cesar Acosta,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+346,26,Escobar Costa Cinthya Lorena,Analista Qa-Qc Lab Medio Ambiente,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01331118
+347,26,Rodriguez Rodriguez Doris Janet,Analista Laboratorio Quimico,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,5,01018275
+348,26,Escudero Rojas Freddy Feliciano,Analista Laboratorio Quimico,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01100355
+349,26,Condo Viza Henry Rolando,Mantenedor Equipos Laboratorio Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100312
+350,26,Hilares Madera John Josue,Analista Qa-Qc Lab Medio Ambiente,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101986
+351,26,Delgado Lozano Jose Manuel,Analista Qa-Qc Lab Medio Ambiente,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01045723
+352,26,Gamboa Moreno Julio Cesar,Analista Laboratorio Quimico,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,5,01102449
+353,26,Leoncio Aliaga,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+354,26,Calvo Condado Rafael Icaro,Supervisor Laboratorio Quimico,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01102511
+355,26,Wilson Chuquisengo,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+356,347,Zegarra Cordova Jesus Del Lirio,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01014373
+357,347,Cornejo Quispe Jorge Antonio,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01009544
+358,347,Vice Fiestas Juddy Marlene,Tecnico Laboratorio Quimico Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01102506
+359,347,Caceres Linares Luis Alexander,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01025822
+360,347,Llamoga Arevalo Nelson Placido,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01011214
+361,348,Guerrero Soberon Elmer Yony,Tecnico Laboratorio Quimico Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101615
+362,348,Arana Chavez Percy Raul,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01002902
+363,348,Gutierrez Figueroa Wilfredo Rolando,Tecnico Laboratorio Quimico Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01203024
+364,348,Verde Marquina William Jorge,Tecnico Laboratorio Quimico Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01214556
+365,352,Portilla Guerrero Cecilia Del Carmen,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101380
+366,352,Luicho Muñoz Edwin Alberto,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01062730
+367,352,Sanchez Arias Edwin,Tecnico Laboratorio Quimico I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100080
+368,352,Blaz Mariños Frank,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01053830
+369,352,Magan Comettant Segundo Roger,Tecnico Laboratorio Quimico Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01008670
+370,354,Cueva Rudas Moises,Preparador Muestras Lab Quimico Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01102053
+371,354,Yopla Calua Ramon,Tecnico Laboratorio Quimico Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100931
+372,354,Teran Pompa Raul Marino,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01014862
+373,354,Valdivia Villanueva Wilson,Tecnico Laboratorio Quimico Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01068988
+374,27,Salazar Cotrina Hugo,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01003613
+375,27,Chuquilin Ramos Tobias,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01297945
+376,27,Martinez Gamarra Wilder,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01068584
+377,27,Sangay Estacio Wilder,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01067508
+378,28,Mayta Saucedo Irael,Tecnico Soporte Lixiviación Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01046195
+379,28,Vigo Venturo Juan Carlos,TECNICO PROCESOS II,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01020742
+380,28,Villanueva Castrejon Segundo Fermin,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01061307
+381,28,Bejarano Valencia Walter Renato,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01028394
+382,29,Bejarano Sabana Ernesto Gerardo,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01066237
+383,29,Vargas Sandoval Herbert Oliver,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01070891
+384,29,Cardenas Zavaleta Jhony Guillermo,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01005996
+385,29,Becerra Alayo Segundo Pedro,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01223468
+386,29,Vilca Quispe Tomas Reyne,Mecanico Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01031807
+387,29,Chavez Alvarado Wilson Eduardo,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01066332
+388,30,Nakahodo Nakama Christopher Dennis,Tecnico Investigaciones Metalurgicas Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101982
+389,30,Gomez Rivera Eder Jesus,Tecnico Investigaciones Metalurgicas Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101901
+390,30,Peregrino Gutierrez Jose Eduardo,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01096234
+391,30,Araujo Sanchez Wilmer,Operador Soporte China Linda,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01302687
+392,31,Galvez Montenegro Edward Eli,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01029242
+393,31,Rivas Correa Esteban,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01074305
+394,31,Quispe Valdivia Jaime Fernando,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01013746
+395,31,Mantilla Llanos Juan Ramos,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01253836
+396,31,Medina Sanchez Juan Carlos,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01088933
+397,31,Chilon Chuquimango Segundo Jose,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01207497
+398,31,Ortiz Barrantes Victor Orlando,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01094440
+399,32,Zavaleta Morales Desiderio,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01012556
+400,32,Ramirez Lavado Edwin Francisco,OPERADOR MANENEDOR IV,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01025931
+401,32,Diaz Puglisevich Elmer Galo,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01024031
+402,32,Alva Izquierdo Martin Victor Antonio,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01039429
+403,32,Malca Moncada Robert Ney,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099620
+404,32,Martinez Aspiros Ruben Moises,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100156
+405,32,Valencia Yopla Severino,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01071751
+406,32,Riveros Gonzales Wilber Leonidas,Operador Mantenedor Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01219045
+407,3,Rodriguez Loyola Felizardo,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01017426
+408,3,Quiroz Alfaro Harold William,Operador Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01248215
+409,3,Becerra Ruiton Juan Carlos,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01085540
+410,3,Ramos Rojas Manuel Alindor,Tecnico Procesos I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01043210
+411,3,Novoa Gallardo Miguel,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01089094
+412,3,Novoa Julcamoro Octavio Benito,Operador Procesos Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01097860
+413,3,Francia Escalon Omar Edwin,Tecnico Procesos Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01022873
+414,3,Chuquipoma Chingay Pablo,Operador Mantenedor Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01293827
+415,52,Silvera Peña Carlos Alberto,Supervisor Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01100000
+416,52,Palomino Condori Javier Hilarion,Supervisor Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,3,01082699
+417,52,Lizbeth Huaman Ramirez,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+418,52,Melisa Gonzales Capunay,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+419,52,Laguna Aquino Nelson Wilfredo,Capataz Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,2,01073843
+420,52,Chacon Morales Ricardo Luis,Supervisor Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01019475
+421,52,Torres Hidalgo Silver Donal,Supervisor Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,4,01059738
+422,52,Ytalo Barahona,C_Coordinador Ventas y Servicios,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+423,415,Chavez Mariñas Carlos Magno,Mecanico Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101525
+424,415,Caceres Turpo Deyvi Agustin,Electricista Mantto Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100391
+425,415,Alcantara Aldave Ivan Joaquin,Mecanico Mantto Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100864
+426,415,Segura Oliva Segundo Salvador,Electricista Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01231644
+427,416,Briones Vasquez Hernan,Mecanico Mantto Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100098
+428,416,Vasquez Correa Joel Abrahan,Electricista Mantto Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101773
+429,416,Chavez Huaman Jose Eulises,Mecanico Mantto I,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01225952
+430,419,Narro Chavez Amado Agustin,Electricista Mantto Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01299216
+431,419,Paricela Quilli Wilber Alberto,Mecanico Mantto Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100550
+432,420,Horna Ruiz Edgar Alex,Electricista Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01005053
+433,420,Gallardo Melendez Gerardo Sebastian,Electricista Mantto Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01310915
+434,420,Cotera Pantoja Jacob,Mecanico Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100925
+435,420,Marcos Puma Juan Jhonny,Mecanico Mantto Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01204535
+436,421,Machacca Manuelo Agapito,Mecanico Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01037385
+437,421,Guevara Alejabo Carlos Gaston,Asistente Programador Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101524
+438,421,Pinto Ramos Oscar Arturo,Mecanico Mantto Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01206036
+439,421,Gomez Chumpitaz Pedro Miguel,Electricista Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01094428
+440,53,Edwin Coopi Morales,C_Supervisor,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+441,53,Gianfranco Jauregui,C_supervisor,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+442,53,Jerzy Peña Ricaldi,C_Supervisor,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+443,53,Diaz Flores Freddy Andres,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100890
+444,53,Trigoso Bobadilla Javier Eduardo,Mantenedor Electrico Iv Facilidades,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100995
+445,53,Lescano Saldaña Juan Carlos,Mantenedor Electrico Iii Facilidades,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01048566
+446,55,Rodriguez Trillo Alfredo Milagros,Supervisor Mantto Camiones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,17,01062901
+447,55,Peralta Saico Henrry Yovanni,Supervisor Mantto Camiones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,26,01100883
+448,55,Velando Quiroz Ivan Alexis,Supervisor Mantto Eq Pesado Pala Hidrau,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,7,01231643
+449,55,Chacaltana Mejia Jaime Orlando,Supervisor Mantto Camiones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,7,01055316
+450,55,Leon Ricapa Luter Nel,Supervisor Mantto Camiones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,6,01005159
+451,55,Pantigoso Loayza Pablo Cesar,Supervisor Mantto Camiones,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,18,01033073
+452,55,Valverde Peña Teofilo Ivan,Supervisor Mantto Eq Pesado Pala Hidraul,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,23,01044331
+453,55,Uribe Rios Wilder,Supervisor Mantto Eq Pesado Pala Hidraul,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,1,01270759
+454,446,Izquierdo Garcia Cruz Herminio,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101411
+455,446,Jara Montejo David Ivan,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099947
+456,446,Cerna Guevara Elmer Rodi,Mantenedor Eq Pesado Ii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099964
+457,446,Solis Atoc Hector Julio,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101516
+458,446,Mendoza Sangay Isaias,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100902
+459,446,Calla Quispe Javier,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100842
+460,446,Suarez Odar Jesus Martin,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100727
+461,446,Lombardi Vasquez Jhimy Anderson,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01305359
+462,446,Muro Zuñiga Joctan Heber,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100627
+463,446,Dominguez Montoya Johan Haverlin,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100548
+464,446,Prado Lopez John Brooklyn,Mantenedor Eq Pesado Iv Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100685
+465,446,Rosales Torres Juan Carlos,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100730
+466,446,Maldonado Pantigoso Julian Jose,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099984
+467,446,Ayasta Hernandez Nicolas,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099942
+468,446,Arteaga Ayala Omar Jaisenn,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100628
+469,446,Rondon Rodriguez Roberto,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01303351
+470,446,Machuca Centeno Tito Augusto,Mantenedor Eq Pesado Iv Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100772
+471,447,Leon Perez Alexander,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100811
+472,447,Llanos Garcia Alexander,Mantenedor Eq Pesado Ii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101199
+473,447,Alva Lopez Angel Fredy,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01225987
+474,447,Garcia Teran Angel Celso,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099978
+475,447,Diaz Araujo Carlos Edwin,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099954
+476,447,Llanos Bolaños Carlos William,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01240106
+477,447,Merino Azabache Carlos Manuel,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01076348
+478,447,Ramos Granda Carlos Enrique,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100716
+479,447,Salazar Huaccha Carlos,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01028626
+480,447,Chavez Tejada Cesar Wilder,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099956
+481,447,Becerra Romero Edilbrando,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100594
+482,447,Boñon Mendoza Jose Guillermo,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100090
+483,447,Cruzado Quiroz Jose Mercedes,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100867
+484,447,Arcos Alayo Luis Enrique,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100177
+485,447,Becerra Rumay Luis Alberto,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100892
+486,447,Lizarbe Oscco Luis,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100741
+487,447,Regalado Idrogo Miguel Antonio,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01202668
+488,447,Ramirez Mendocilla Oscar Ivan,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100899
+489,447,Chancahuana Rojas Ovidio,Operador Grua Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01214503
+490,447,Fernandez Luna Pedro Wilson,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01003880
+491,447,Rojas Alva Percy Emilio,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099948
+492,447,Pichen Diaz Rojer Eradio,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100849
+493,447,Mendoza Chavez Santos Domingo,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100480
+494,447,Vasquez Haro Segundo Carlos,Mantenedor Eq Pesado Ii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01215421
+495,447,Valdez Hernandez Walter Gilmer,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100877
+496,447,Chuchon Diaz William,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100739
+497,448,Espino Carrasco Carlos,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100724
+498,448,Marcapura Vargas Edgar Martin,Mantenedor Eq Pesado Iv Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100172
+499,448,Mendoza Solano Hermer Javier,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100064
+500,448,Suarez Palomino Juan Presilio,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100759
+501,448,Sanchez Machuca Moises Abraham,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100715
+502,448,Aguilar Muñoz Oscar Jesus,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100108
+503,448,Diaz Collantes Pablo,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100579
+504,449,Briceño Cachay Carlos Alberto,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099951
+505,449,Segundo Chambergo Carlos Humberto,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100737
+506,449,Remy Delgado Jean Henri,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01051654
+507,449,Llauca Castilla Jimmy William,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100692
+508,449,Minchan Ambrosio Mauricio,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100145
+509,449,Marin Vargas Raul Orlando,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101419
+510,449,Vilca Ccari Santiago Ernesto,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100910
+511,450,Llanos Guevara Juan Carlos,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101115
+512,450,Perez Hualtibamba Julio Cesar,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100728
+513,450,Manrique Barreto Rafael,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101405
+514,450,Saldaña Cotrina Raul Fernando,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099969
+515,450,Nicolas Amiquero Richard Bruno,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100749
+516,450,Lozano Rodriguez Roberto Pablo,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01052563
+517,451,Chavez Leiva Alex Dennir,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100857
+518,451,Alfaro Bazan Carlos Roel,Operador Grua Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100648
+519,451,Ocas Bueno Carlos Ivan,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099962
+520,451,Chegne Cabrera Cesar Alberto,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100891
+521,451,Chafloque Santa Cruz Ce Carlos,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100609
+522,451,Maravi Campos Dennis Armando,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100770
+523,451,Chavez Chuan Edwin Alexander,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099955
+524,451,Malaga Chanji Ernesto Rafael,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100712
+525,451,Vasquez Casas Fernando Raul,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100046
+526,451,Quispe Ortiz Hugo,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100876
+527,451,Velasquez Prado Hugo Daniel,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01043341
+528,451,Valdivia Urteaga Jorge,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100752
+529,451,Anchante Gomez Jose Antonio,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100745
+530,451,Arestegui Rojas Luis Alberto,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100694
+531,451,Zelada Cueva Manuel Humberto,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100244
+532,451,Chambi Pari Odilon Angel,Operador Grua Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01292729
+533,451,Sosa Ortiz Roberto Carlos,Mantenedor Mecanico Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100572
+534,451,Valiente Llico Victor Hugo,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100094
+535,452,Herrera Quispe Adolfo,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100624
+536,452,Mamani Huanacune David Alfonzo,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101410
+537,452,Mejia Laura David Ruben,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100725
+538,452,Vargas Perez Desiderio,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100821
+539,452,Carhuapoma Cueva Dimitrov Safreno,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100796
+540,452,Jara Yalta Edgar Martin,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100173
+541,452,Perez Terrones Edson Omar,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100875
+542,452,Altamirano Flores Elmo Anibal,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01013685
+543,452,Quiliche Hernandez Fredy Ronald,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100824
+544,452,Centellas Armendariz Hernan Javier,Mantenedor Eq Pesado Iv Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100722
+545,452,Carmona Bobadilla Ignacio,Mantenedor Electrico Iv Facilidades,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01050816
+546,452,Rodriguez Sanchez Ilmer,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100096
+547,452,Garcia Navarro John Christian,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100783
+548,452,Alcantara Cuenca Jose Antonio,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099981
+549,452,Cueva Moreno Jose Luis,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100862
+550,452,Torres Diaz Jose Eduardo,Mantenedor Equipo Pesado Ii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100179
+551,452,Cauti Vallejo Miguel Horacio,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100740
+552,452,Zegarra Cepeda Miller Alexander,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100795
+553,452,Diaz Bustamante Nelson,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100868
+554,452,Carrillo Beunza Pablo Santiago,Tecnico Equipment Health Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100884
+555,452,Benites Zapata Sandro Eladio,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100822
+556,452,Del Rosario Rojas Victor Emilio,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01046032
+557,452,Vela Rengifo Winston,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099959
+558,453,Peralta Diaz Jhonny Walter,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099950
+559,56,Salazar Boyd Dennis,C_Supervisor de EHS,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+560,56,Gutierrez Villena Elder Orlando,C_Gerente de cuenta,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+561,56,Aniceto Pena Hilda,C_Supervisor de HS,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+562,56,Cordova Herrera Ivan,C_Jefe de proyecto,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+563,56,Garcia Jessica,C_Asistenta Social,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+564,56,Culqui Romero Marco,C_Ingeniero EHS,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+565,56,Brophy Vergara Norma,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+566,58,Pompa Mendoza Andy Roy,Planner Mantto Mina Senior,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100895
+567,58,Cuba Angulo Cosme Damian,Mantenedor Equipo Pesado Iii,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100464
+568,58,Namay Ramirez Donato,Mantenedor Eq Pesado Iii Pala Hidraulica,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100444
+569,58,Altamirano Flores Elder Alfredo,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01101334
+570,58,Rodriguez Sanchez Emilio,C_Supervisor de Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+571,58,Novoa Castope Joel,C_Supervisor de Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+572,58,Merino Azabache Jose Gabriel,Planner Mantto Mina Senior,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01056925
+573,58,Moya Juan,C_Mantto Mina Planeador,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+574,58,Cabrera Leiva Julio,C_Mantto Mina Ejecutor,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+575,58,Lima Arribasplata Miguel,C_Mantto Mina Planeador,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+576,58,Briones Atalaya Martin,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+577,58,Alvarado Martos Miguel,C_Supervisor de Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+578,58,Lopez Camizan Nelson,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100596
+579,58,Donato Tejada Pedro,C_Supervisor Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+580,58,Condori Gomez Rene Israel,Supervisor Mantto Mina Tractor Carg,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100504
+581,58,Quispe Lopez Roger,C_Mantto Mina Planeador,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+582,58,Arce Romario,C_Mantto Mina Ejecutor,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+583,58,Enriquez Rufino,C_Mantto Mina Planeador,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+584,58,Bejaranao Maita Walter,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+585,58,Velarde Yanss,C_Mantto Mina Planeador,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+586,62,Diaz Alessandra,C_Administradora,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+587,62,Tejada Carlos,C_Planner Contratista,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+588,62,Romero Castañeda Edy Alexander,Programador Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100135
+589,62,Sampen Ernesto,C_Control de Calidad,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+590,62,Quiroz Alcalde Fernando Dany,Asistente Programador Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01246732
+591,62,Oviedo Isac,C_jefe Planner de Contratista,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+592,62,Castañeda Gamarra Juan Antonio,Programador Mantenimiento,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01099946
+593,62,Cabellos Calderon Luis Martin,Electricista Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01069777
+594,62,Cespedes Nadia,C_Programador Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+595,62,Saldarriaga Nilton,C_Planner Contratista,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+596,62,Chavez Villanueva Wesly,C_Programador Mantto Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+597,63,Cardenas Zedano Aldo Sandro,Mecanico Mantto Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01038750
+598,63,Flores Antonio,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+599,63,Ortiz Parra Armando Eugenio,Tecnico Equipment Health Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100781
+600,63,Silva Alisson,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+601,63,Amoros Cristhian,C_NPL con cuenta AD,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+602,63,Anton Ruiz Cristobal,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100764
+603,63,Munoz Edgar Jonathan,C_Supervisor ADEMINSAC,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+604,63,Tafur Valencia Fredy Richard,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100807
+605,63,Zavala Ortiz Henry Robert,Tecnico Equipment Health Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100747
+606,63,Nakahodo Nakama Jonathan Ken,Tecnico Equipment Health Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100500
+607,63,Aulla Huayta Jose Luis,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01002626
+608,63,Colque Rojas Juan Carlos,Tecnico Equipment Health Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100686
+609,63,Tafur Bustamante Lorenzo Vidal,Mecanico Mantto IV,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01226745
+610,63,Saire Chani Rafael,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100674
+611,63,Regalado Deza Raul Oswaldo,Tecnico Equipment Health Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100805
+612,63,Sanchez Mantilla Richard Nixon,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100557
+613,63,Mejia Bustamante Silvestre,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100311
+614,63,Machuca Torres Victor Alex,Mantenedor Equipo Pesado Iv,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,01100913
+615,1,Vargas Sanchez Alonso Ivan,Practicante Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+616,1,Manya Velarde Angel Gabriel,Practicante Operaciones Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+617,1,Mostacero Marin Claudia Paola,Practicante Operaciones Mina,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+618,1,Diaz Chunga Cristhian Andre,Practicante Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
+619,1,Roncal Ramos Mayckel Demer,Practiante Procesos,https://bumbeishvili.github.io/avatars/avatars/portrait123.png,0,TEMPORAL
